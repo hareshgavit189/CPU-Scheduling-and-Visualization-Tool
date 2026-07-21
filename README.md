@@ -1,5 +1,7 @@
 # CPU Scheduler Pro ⚡
 
+Live link: https://hareshgavit189.github.io/CPU-Scheduling-and-Visualization-Tool/
+
 **CPU Scheduler Pro** is an advanced, premium, and interactive web-based simulator for Operating System process scheduling algorithms. It provides a visual and intuitive way to understand how different CPU scheduling strategies work, complete with real-time Gantt charts, detailed process metrics, and side-by-side algorithm comparisons.
 
 ## ✨ Features
